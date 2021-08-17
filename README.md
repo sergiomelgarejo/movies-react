@@ -1,3 +1,4 @@
+# Movies Data 🍿📽️
 This is a client app to display movies consuming The Movie Database API (https://api.themoviedb.org/3/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
